@@ -8,4 +8,5 @@ npm install -g gulp
 
 # run gulp
 firt way --- gulp
+
 second way --- gulp <TASK NAME>
