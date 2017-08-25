@@ -1,0 +1,12 @@
+.class {
+  color: blue;
+  -webkit-border-radius: 10px / 20px;
+          border-radius: 10px / 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+.id {
+  color: black; }
+
+.heading {
+  color: green; }
