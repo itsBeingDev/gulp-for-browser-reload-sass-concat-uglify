@@ -9,4 +9,4 @@ npm install -g gulp
 # run gulp
 firt way --- gulp
 
-second way --- gulp <TASK NAME>
+second way --- gulp (THE TASK NAME YOU WANT TO RUN)
